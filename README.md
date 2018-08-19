@@ -1,4 +1,4 @@
-# 04buscador-getters
+# 05buscador-getters-plugin-vuex-persist
 
 ## Project setup
 ```
